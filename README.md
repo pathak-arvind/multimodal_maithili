@@ -101,7 +101,10 @@ Research Focus: Computational Linguistics & Low-Resource NLP
 
 ---
 
+
 ## 📌 Notes
+
+This repository is for demonstration and evaluation only. No license is provided; all rights are reserved. Please do not reuse or distribute the code.
 
 - This is a **demo** version of the full system.  
 - Core pipeline and UI are included.  
